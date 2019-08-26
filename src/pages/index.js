@@ -11,7 +11,6 @@ const IndexPage = () => (
     <Header />
     <div className="Hero">
       <div className="HeroGroup">
-        x
         <SEO title="Home" />
         <h1>Hi Tomasz</h1>
         <p>Welcome to your new Gatsby site.</p>
